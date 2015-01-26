@@ -98,6 +98,7 @@ class Listener extends Thread {
     	String userName = null;
     	InetAddress who = null;
     	
+    	
     	Group group = null;
     	
     	try {
